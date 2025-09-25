@@ -5,6 +5,8 @@ venv/
 *.log
 *.tmp
 
+!src/
+!src/*.py
 
 # Ignorar configuraciones de VS Code (si usás)
 .vscode/
